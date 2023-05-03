@@ -2,8 +2,10 @@
 Everything you need to know about software testing: Design, Plan, Campaign and Test Strategy, Automation.
 
 # Test logiciel : Les niveaux de test  
+
 ## Test de composant (test unitaire)
    - Les tests composant sont réalisé par les développeur dans le but
+
 ## Test d'intégration  
     - Un test d'intégration est un type de test logiciel qui vise à vérifier que les différentes parties d'un système fonctionnent correctement ensemble, une fois qu'elles sont intégrées. Il s'agit donc de tester la bonne communication entre les différents composants du système.  
 
@@ -23,8 +25,10 @@ Everything you need to know about software testing: Design, Plan, Campaign and T
     6. Vérifiez que la commande est correctement enregistrée dans le module de gestion des commandes.
     7. Vérifiez que le stock est correctement mis à jour dans le module de gestion des stocks.
     8. Vérifiez que le client reçoit une confirmation de commande par e-mail.
-    Ce test d'intégration permet de vérifier que l'ensemble du système fonctionne correctement et permet de détecter les éventuelles erreurs ou problèmes d'interaction entre les différents modules du système.
+    Ce test d'intégration permet de vérifier que l'ensemble du système fonctionne correctement et permet de détecter les éventuelles erreurs ou problèmes d'interaction entre les différents modules du système.  
+
 ## Test système
-    Permet la Validation des tests composant. En cas d'anomalie l'équipe dev est en charge de trouver une solution.
+    Permet la Validation des tests composant. En cas d'anomalie l'équipe dev est en charge de trouver une solution.  
+    
 ## Test d'acceptation 
     Phase de recette ou VSR
