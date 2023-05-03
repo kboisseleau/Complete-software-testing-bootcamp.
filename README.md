@@ -7,7 +7,7 @@ Everything you need to know about software testing: Design, Plan, Campaign and T
    - Les tests composant sont réalisé par les développeur dans le but.  
 
 ## Test d'intégration:  
-    Un test d'intégration est un type de test logiciel qui vise à vérifier que les différentes parties d'un système fonctionnent correctement ensem  
+    Un test d'intégration 
 
 ## Test système
     Permet la Validation des tests composant. En cas d'anomalie l'équipe dev est en charge de trouver une solution.  
