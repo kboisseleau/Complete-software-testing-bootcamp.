@@ -15,7 +15,20 @@
 
 8. Exécution de test : Les cas de test sont exécutés selon le plan de test établi lors de la stratégie de test. Les résultats de test sont enregistrés dans une base de données de test pour être utilisés lors de l'analyse des résultats.
 
-9. Bilan de test : Le bilan de test est l'étape finale du processus de test. Il s'agit de l'analyse des résultats de test pour déterminer si le produit répond aux exigences et aux critères de qualité définis. Le bilan de test est utilisé pour déterminer si le produit est prêt à être livré.
+9. Bilan de test :  
+    - Contexte et objectifs : cette section présente le contexte du projet, les objectifs des tests et les critères d'acceptation définis pour le système.
+
+    - Périmètre des tests : cette section décrit le périmètre des tests, c'est-à-dire les fonctionnalités du système testées, ainsi que les fonctionnalités exclues des tests.
+
+    - Plan de test : cette section présente le plan de test qui a été utilisé pour réaliser les tests. Le plan de test décrit les différents types de tests réalisés, les scénarios de test, les cas de test, les données de test utilisées, etc.
+
+    - Résultats des tests : cette section présente les résultats des tests. Elle peut inclure des tableaux ou des graphiques qui résument les résultats des tests pour chaque fonctionnalité testée. Les résultats peuvent être présentés sous forme de pourcentages de réussite, de taux d'erreurs, de temps de réponse, etc.
+
+    - Anomalies et corrections : cette section présente les anomalies qui ont été identifiées lors des tests, ainsi que les corrections qui ont été apportées. Les anomalies peuvent être classées par ordre de priorité et de gravité.
+
+    - Conclusions : cette section présente les conclusions des tests. Elle peut inclure une évaluation de la qualité du système testé, des recommandations pour améliorer le système, des points forts et des points faibles identifiés, etc.
+
+    - Perspectives : cette section présente les perspectives pour l'avenir, c'est-à-dire les actions à entreprendre suite aux résultats des tests. Elle peut inclure des recommandations pour la maintenance du système, des recommandations pour des tests futurs, etc.
 
 10. Anomalie : une anomalie, également appelée bogue ou défaut, est une erreur ou un comportement inattendu dans le logiciel qui ne correspond pas aux spécifications ou aux attentes. Les anomalies peuvent être identifiées lors de l'exécution des tests ou par des utilisateurs finaux qui signalent des problèmes rencontrés lors de l'utilisation du logiciel. Les anomalies sont généralement documentées dans un système de suivi des anomalies pour un suivi et une résolution ultérieurs.
 
