@@ -15,7 +15,7 @@ Everything you need to know about software testing: Design, Plan, Campaign and T
     d'intégration vérifient le bon fonctionnement de l'ensemble du système, en testant  
     l'interaction entre les différentes unités de code.  
 
-    ### Voici un exemple concret de test d'intégration :  
+    Voici un exemple concret de test d'intégration :  
 
     Supposons que vous travaillez sur un site Web de commerce électronique qui permet aux  
     utilisateurs de passer des commandes en ligne. Votre site Web se compose de plusieurs  
@@ -25,7 +25,7 @@ Everything you need to know about software testing: Design, Plan, Campaign and T
     une commande réelle sur le site et vérifie que la commande est correctement  
     traitée, que le paiement est accepté, que le stock est correctement mis à jour, etc.  
 
-    ### Le test d'intégration pourrait se dérouler comme suit :
+    Le test d'intégration pourrait se dérouler comme suit :
 
     1. Créez un utilisateur de test sur le site Web.
     2. Ajoutez un produit au panier et vérifiez que le produit est bien ajouté.
