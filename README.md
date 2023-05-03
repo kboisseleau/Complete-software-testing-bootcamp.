@@ -7,3 +7,5 @@ Everything you need to know about software testing: Design, Plan, Campaign and T
 - [Les essentiels en test logiciel](https://github.com/kboisseleau/complete-software-testing-bootcamp/blob/main/les-essentiels-en-test-logiciel/les-essentiels-en-test-logiciel.md)
 
 - [Processus de test](https://github.com/kboisseleau/complete-software-testing-bootcamp/blob/main/processus-de-test/processus-de-test.md)
+
+- [Download_présentation_des_types_de_test]()
