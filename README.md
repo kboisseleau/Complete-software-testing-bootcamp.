@@ -118,26 +118,27 @@ Everything you need to know about software testing: Design, Plan, Campaign and T
     - L'utilisateur doit pouvoir passer à la caisse et finaliser la commande.  
     - Pour effectuer un test d'acceptation, nous pouvons suivre les étapes suivantes:  
   
-    Planification et préparation: Nous devons identifier les scénarios de test à effectuer pour cette  
+    1. Planification et préparation: Nous devons identifier les scénarios de test à effectuer pour cette  
     fonctionnalité. Nous pouvons utiliser des techniques de conception de test pour garantir une couverture  
     complète des exigences. Nous devons également préparer un environnement de test avec des données de test  
     et les configurations nécessaires.  
       
-    Conception de scénarios de test: Nous pouvons concevoir des scénarios de test qui couvrent toutes  
+    2. Conception de scénarios de test: Nous pouvons concevoir des scénarios de test qui couvrent toutes  
     les exigences de la fonctionnalité, tels que:  
     
-    Ajouter un produit au panier et vérifier qu'il apparaît dans le panier avec la quantité correcte.  
-    Supprimer un produit du panier et vérifier qu'il disparaît du panier.  
-    Modifier la quantité d'un produit dans le panier et vérifier que le montant total est mis à jour en conséquence.  
-    Passer à la caisse et finaliser la commande.  
-    Exécution des tests: Nous pouvons exécuter les scénarios de test dans l'environnement de test  
+    -Ajouter un produit au panier et vérifier qu'il apparaît dans le panier avec la quantité correcte.  
+    -Supprimer un produit du panier et vérifier qu'il disparaît du panier.  
+    -Modifier la quantité d'un produit dans le panier et vérifier que le montant total est mis à jour en conséquence.  
+    - Passer à la caisse et finaliser la commande. 
+       
+    3. Exécution des tests: Nous pouvons exécuter les scénarios de test dans l'environnement de test  
     préparé, en suivant le plan de test. Nous devons enregistrer les résultats de test et les  
     défauts identifiés.  
   
-    Analyse des résultats: Nous pouvons analyser les résultats de test pour identifier les défauts  
+    4. Analyse des résultats: Nous pouvons analyser les résultats de test pour identifier les défauts  
     et les problèmes de performance. Nous pouvons également vérifier si les exigences ont été satisfaites.  
   
-    Rapports de test et revue: Nous devons générer des rapports de test pour documenter les résultats de  
+    5. Rapports de test et revue: Nous devons générer des rapports de test pour documenter les résultats de  
     test et les défauts identifiés. Nous devons également réviser les rapports de test avec les parties  
     prenantes du projet, y compris les développeurs, les chefs de projet et les clients.  
   
