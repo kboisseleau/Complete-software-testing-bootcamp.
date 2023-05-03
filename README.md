@@ -4,7 +4,7 @@ Everything you need to know about software testing: Design, Plan, Campaign and T
 # Test logiciel : Les niveaux de test  
 
 ## Test de composant (test unitaire):  
-   - Les tests composant sont réalisé par les développeur dans le but
+   - Les tests composant sont réalisé par les développeur dans le but.  
 
 ## Test d'intégration:  
     - Un test d'intégration est un type de test logiciel qui vise à vérifier que les différentes parties d'un système fonctionnent correctement ensemble, une fois qu'elles sont intégrées. Il s'agit donc de tester la bonne communication entre les différents composants du système.  
