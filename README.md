@@ -4,7 +4,33 @@ Everything you need to know about software testing: Design, Plan, Campaign and T
 # Test logiciel : Les niveaux de test  
 
 ## Test de composant (test unitaire):  
-   - Les tests composant sont réalisé par les développeur dans le but.  
+    Un test unitaire est une procédure de test automatisée qui vise à vérifier le comportement attendu  
+    d'une unité de code isolée, telle qu'une   fonction, une méthode ou une classe, dans un  
+    environnement contrôlé.  
+
+    Le but des tests unitaires est de garantir que chaque unité de code fonctionne correctement  
+    et de manière indépendante, en s'assurant que toutes les entrées possibles sont correctement  
+    traitées et que les sorties produites sont conformes aux attentes. Les tests unitaires sont  
+    généralement écrits par les développeurs eux-mêmes et sont souvent exécutés automatiquement  
+    à chaque modification de code pour détecter rapidement les erreurs et les régressions potentielles.  
+
+    En faisant des tests unitaires, vous pouvez vous assurer que votre code fonctionne correctement et  
+    éviter les erreurs qui pourraient se propager à d'autres parties de votre application.  
+      
+    Les avantages des tests unitaires incluent:  
+
+    Détection précoce des erreurs:  
+    les tests unitaires vous permettent de détecter rapidement les  
+    erreurs dans votre code, ce qui facilite leur correction avant qu'elles ne se propagent à d'autres
+    parties de votre application.  
+      
+    Documentation du comportement:  
+    les tests unitaires agissent également comme une documentation en  
+    décrivant le comportement attendu de chaque unité de code.  
+    Réduction du temps de débogage: en détectant les erreurs plus tôt, les tests unitaires permettent  
+    également de réduire le temps de débogage nécessaire pour les corriger.  
+    En somme, les tests unitaires sont une pratique importante de l'ingénierie logicielle qui permet  
+    de garantir la qualité et la fiabilité du code.  
 
 ## Test d'intégration:  
     Un test d'intégration est un type de test logiciel qui vise à vérifier que les différentes parties  
