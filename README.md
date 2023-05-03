@@ -4,3 +4,4 @@ Everything you need to know about software testing: Design, Plan, Campaign and T
 - [Test logiciel : Les niveaux de test](https://github.com/kboisseleau/complete-software-testing-bootcamp/blob/main/les-niveau-de-test/niveau-de-test.md)
 
 
+- [Les essentiels en test logiciel](https://github.com/kboisseleau/complete-software-testing-bootcamp/blob/main/les-essentiels-en-test-logiciel/les-essentiels-en-test-logiciel.md)
