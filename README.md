@@ -96,4 +96,49 @@ Everything you need to know about software testing: Design, Plan, Campaign and T
     ainsi que l'application est prête pour une utilisation réelle.  
 
 ## Test d'acceptation 
-    Phase de recette ou VSR
+    Un test d'acceptation est un type de test logiciel qui vérifie si le système répond aux exigences  
+    et attentes des utilisateurs et des parties prenantes. Il s'agit d'un test de haut niveau qui vise  
+    à déterminer si le système est prêt pour une utilisation réelle et peut être accepté par les  
+    utilisateurs finaux.  
+  
+    Les tests d'acceptation peuvent être effectués manuellement ou de manière automatisée. Les tests manuels  
+    impliquent souvent des scénarios de test basés sur des cas d'utilisation réels, tandis que les tests  
+    automatisés peuvent utiliser des frameworks de test ou des outils de simulation pour simuler des  
+    interactions utilisateur.  
+  
+    Voici un exemple de test d'acceptation pour une application de commerce électronique:  
+  
+    Supposons que nous devions tester une fonctionnalité de panier d'achat pour une boutique en ligne.  
+    Les exigences de cette fonctionnalité sont les suivantes:  
+  
+    - L'utilisateur doit pouvoir ajouter un produit au panier.  
+    - L'utilisateur doit pouvoir supprimer un produit du panier.  
+    - L'utilisateur doit pouvoir modifier la quantité d'un produit dans le panier.  
+    - Le panier doit afficher le montant total des produits ajoutés.  
+    - L'utilisateur doit pouvoir passer à la caisse et finaliser la commande.  
+    - Pour effectuer un test d'acceptation, nous pouvons suivre les étapes suivantes:  
+  
+    Planification et préparation: Nous devons identifier les scénarios de test à effectuer pour cette  
+    fonctionnalité. Nous pouvons utiliser des techniques de conception de test pour garantir une couverture  
+    complète des exigences. Nous devons également préparer un environnement de test avec des données de test  
+    et les configurations nécessaires.  
+      
+    Conception de scénarios de test: Nous pouvons concevoir des scénarios de test qui couvrent toutes  
+    les exigences de la fonctionnalité, tels que:  
+    
+    Ajouter un produit au panier et vérifier qu'il apparaît dans le panier avec la quantité correcte.  
+    Supprimer un produit du panier et vérifier qu'il disparaît du panier.  
+    Modifier la quantité d'un produit dans le panier et vérifier que le montant total est mis à jour en conséquence.  
+    Passer à la caisse et finaliser la commande.  
+    Exécution des tests: Nous pouvons exécuter les scénarios de test dans l'environnement de test  
+    préparé, en suivant le plan de test. Nous devons enregistrer les résultats de test et les  
+    défauts identifiés.  
+  
+    Analyse des résultats: Nous pouvons analyser les résultats de test pour identifier les défauts  
+    et les problèmes de performance. Nous pouvons également vérifier si les exigences ont été satisfaites.  
+  
+    Rapports de test et revue: Nous devons générer des rapports de test pour documenter les résultats de  
+    test et les défauts identifiés. Nous devons également réviser les rapports de test avec les parties  
+    prenantes du projet, y compris les développeurs, les chefs de projet et les clients.  
+  
+    Les tests d'acceptation sont importants pour garantir la qualité et la fiabilité du système.  
