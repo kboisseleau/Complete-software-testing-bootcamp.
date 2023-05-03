@@ -5,14 +5,13 @@ Everything you need to know about software testing: Design, Plan, Campaign and T
 
 ## Test de composant (test unitaire):  
     Un test unitaire est une procédure de test automatisée qui vise à vérifier le comportement attendu  
-    d'une unité de code isolée, telle qu'une   fonction, une méthode ou une classe, dans un  
+    d'une unité de code isolée, telle qu'une fonction, une méthode ou une classe, dans un  
     environnement contrôlé.  
 
     Le but des tests unitaires est de garantir que chaque unité de code fonctionne correctement  
     et de manière indépendante, en s'assurant que toutes les entrées possibles sont correctement  
     traitées et que les sorties produites sont conformes aux attentes. Les tests unitaires sont  
-    généralement écrits par les développeurs eux-mêmes et sont souvent exécutés automatiquement  
-    à chaque modification de code pour détecter rapidement les erreurs et les régressions potentielles.  
+    écrits par les développeurs pour détecter rapidement les erreurs et les régressions potentielles.  
 
     En faisant des tests unitaires, vous pouvez vous assurer que votre code fonctionne correctement et  
     éviter les erreurs qui pourraient se propager à d'autres parties de votre application.  
@@ -65,9 +64,36 @@ Everything you need to know about software testing: Design, Plan, Campaign and T
     et permet de détecter  
     les éventuelles erreurs ou problèmes d'interaction entre les différents modules du système.  
 
-## Test système
-    Permet la Validation des tests composant. En cas d'anomalie l'équipe dev est en charge de  
-    trouver une solution.  
+## Test système  
+    Un test système est un type de test qui vérifie le bon fonctionnement de l'ensemble d'un système  
+    ou d'une application dans son environnement réel, y compris toutes les interactions avec les  
+    autres systèmes et composants.  
+
+    Le but des tests système est de s'assurer que le système ou l'application fonctionne correctement  
+    dans son ensemble, tel qu'il est censé être utilisé dans des conditions réelles, et qu'il répond  
+    aux exigences et aux spécifications fonctionnelles et non fonctionnelles. Les tests système sont  
+    généralement effectués après les tests unitaires et d'intégration pour valider le système dans  
+    son ensemble avant sa mise en production.  
+
+    En faisant des tests système, vous pouvez vous assurer que votre application fonctionne correctement  
+    et répond aux exigences du client.  
+      
+    Les avantages des tests système incluent:  
+
+    Détection de problèmes de compatibilité:  
+    les tests système permettent de détecter les problèmes de compatibilité avec d'autres systèmes  
+    et composants, ce qui peut éviter des problèmes coûteux lors de la mise en production.  
+    Détection de problèmes de performance: les tests système permettent également de détecter les  
+    problèmes de performance, tels que les temps de réponse trop longs ou les erreurs de traitement  
+    de volume élevé de données.  
+      
+    Validation de l'expérience utilisateur:  
+      
+    les tests système permettent de valider l'expérience utilisateur, en s'assurant que toutes les  
+    fonctionnalités sont disponibles et fonctionnent correctement.  
+    En somme, les tests système sont une pratique importante de l'ingénierie logicielle qui permet  
+    de valider le système ou l'application dans son ensemble avant sa mise en production, garantissant  
+    ainsi que l'application est prête pour une utilisation réelle.  
 
 ## Test d'acceptation 
     Phase de recette ou VSR
