@@ -9,7 +9,13 @@
 
 5. Jeu de données de test (JDD) : Les jeux de données de test contiennent les valeurs d'entrée pour chaque cas de test. Ils peuvent être simples ou complexes selon le besoin de chaque cas de test. Les JDD sont utilisés pour valider les cas de test et pour générer des résultats de test.
 
-6. User story : Les histoires d'utilisateurs sont utilisées dans les projets Agile pour décrire les fonctionnalités ou les tâches que les utilisateurs doivent accomplir avec le produit. Les histoires d'utilisateurs sont utilisées pour décrire les exigences et pour élaborer les scénarios de test.
+6. User story : Les histoires d'utilisateurs sont utilisées dans les projets Agile pour décrire les fonctionnalités ou les tâches que les utilisateurs doivent accomplir avec le produit. Les histoires d'utilisateurs sont utilisées pour décrire les exigences et pour élaborer les scénarios de test. Son objectif est de faciliter la compréhension du besoin tout en minimisant les possibilités de quiproquos via des consignes écrites spécifiques.
+
+Un récit utilisateur se doit de comporter les éléments suivants :  
+
+- L’utilisateur cible ou groupe d’utilisateurs de la fonctionnalité
+- Ce que souhaite l’utilisateur
+- La raison pour laquelle la fonctionnalité est requise
 
 7. Critères d'entrée et de sortie : Les critères d'entrée et de sortie définissent les conditions nécessaires pour l'exécution des cas de test et les résultats attendus pour chaque cas de test. Les critères d'entrée et de sortie sont utilisés pour valider les résultats de test.
 
