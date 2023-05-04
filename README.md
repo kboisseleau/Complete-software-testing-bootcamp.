@@ -13,3 +13,5 @@ Everything you need to know about software testing: Design, Plan, Campaign and T
 - [C'est quoi une campagne de test](https://github.com/kboisseleau/complete-software-testing-bootcamp/blob/main/campagne-de-test/campagne-de-test.md)
 
 - [Exemple complet de stratégie de test, planification de test et campagne de test](https://github.com/kboisseleau/complete-software-testing-bootcamp/blob/main/Cr%C3%A9ation%2Bde%2Bcas%2Bde%2Btest%2B%2B%2Bstrat%C3%A9gie%2Bde%2Btest%2B%2Bplanning.xlsx)
+
+- [La méthode Agile](https://github.com/kboisseleau/complete-software-testing-bootcamp/blob/main/methode-agile/methode-agile.md)
