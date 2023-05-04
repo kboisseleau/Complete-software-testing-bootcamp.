@@ -1,0 +1,11 @@
+# C'est quoi Scrum
+
+Scrum est un cadre de travail Agile pour la gestion de projets, qui implique une équipe auto-organisée et interfonctionnelle. Ce cadre de travail est basé sur des rôles bien définis, un rythme itératif et des artefacts tels que le product backlog, le sprint backlog et le graphique d'avancement burn down chart.
+
+Les rôles clés dans Scrum sont le Product Owner, l'équipe de développement et le Scrum Master. Le Product Owner est responsable de la gestion du product backlog, qui est une liste de toutes les fonctionnalités requises pour l'application. L'équipe de développement est responsable de la réalisation des tâches inscrites dans le sprint backlog, qui est une liste des tâches pour un sprint donné. Le Scrum Master est responsable de faciliter les processus Scrum, de résoudre les obstacles et de s'assurer que l'équipe suit les principes de Scrum.
+
+Le rythme itératif dans Scrum est défini par des sprints, qui sont des périodes de temps (généralement 2 à 4 semaines) pendant lesquelles l'équipe de développement travaille sur une partie du product backlog pour produire des résultats concrets. À la fin de chaque sprint, l'équipe de développement présente le travail accompli au Product Owner lors de la revue de sprint et réfléchit à ce qui pourrait être amélioré lors de la rétrospective de sprint.
+
+Les artefacts Scrum comprennent le product backlog, le sprint backlog et le graphique d'avancement burn down chart. Le product backlog est la liste complète de toutes les fonctionnalités requises pour l'application, organisée par ordre de priorité. Le sprint backlog est une liste des tâches à accomplir pour un sprint donné, dérivée du product backlog. Le graphique d'avancement burn down chart permet à l'équipe de développement et au Scrum Master de suivre la progression du sprint et de s'assurer que l'équipe est sur la bonne voie pour atteindre les objectifs fixés.
+
+En somme, Scrum est un cadre de travail Agile qui se concentre sur des rôles définis, un rythme itératif et des artefacts pour assurer une livraison régulière et incrémentale de fonctionnalités. Il est basé sur la collaboration et la communication fréquentes entre les membres de l'équipe, avec un objectif constant de livraison de valeur pour les parties prenantes.
