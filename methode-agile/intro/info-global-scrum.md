@@ -1,4 +1,4 @@
-# C'est quoi Scrum
+# C'est quoi Scrum ?
 
 Scrum est un cadre de travail Agile pour la gestion de projets, qui implique une équipe auto-organisée et interfonctionnelle. Ce cadre de travail est basé sur des rôles bien définis, un rythme itératif et des artefacts tels que le product backlog, le sprint backlog et le graphique d'avancement burn down chart.
 
